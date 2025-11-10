@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6; /* Mejora la legibilidad del texto */
+}
+
+header {
+    background-color: #2980b9; /* Azul más moderno */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
+
+section {
+    margin: 1em;
+    padding: 1.5em;
+    background-color: white;
+    border-radius: 8px; /* Bordes más redondeados */
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+h1 {
+    color: #fff; /* Color del título principal */
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    color: #2980b9; /* Azul para los subtítulos */
+    border-bottom: 2px solid #2980b9; /* Línea debajo del subtítulo */
+    padding-bottom: 0.3em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+ol, ul {
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+a {
+    color: #e74c3c; /* Rojo más atractivo */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Transición suave al pasar el ratón */
+}
+
+a:hover {
+    color: #c0392b; /* Rojo más oscuro al pasar el ratón */
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
