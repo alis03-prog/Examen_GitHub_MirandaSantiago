@@ -1,0 +1,42 @@
+body {
+    background-color: #1A232F; /* Azul petróleo */
+    color: #FFFFFF; /* Color de texto blanco para mejor contraste */
+    font-family: 'Arial', sans-serif; /* Tipografía moderna y legible */
+    margin: 50px;
+    border: 5px solid #FF00FF; /* Margen rosa fosforescente */
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #FF00FF; /* Morado neón */
+    text-shadow: 0 0 10px #FF00FF; /* Efecto neón */
+}
+
+ul {
+    list-style-type: square;
+    color: #A020F0; /* Morado llamativo */
+}
+
+ol {
+    list-style-type: decimal;
+    color: #00FFFF; /* Azul cian llamativo */
+}
+
+li {
+    margin: 5px 0;
+}
+
+a {
+    color: #FFFF00; /* Amarillo neón para enlaces */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #FF00FF; /* Borde rosa fosforescente para imágenes */
+}
